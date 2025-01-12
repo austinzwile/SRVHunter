@@ -60,9 +60,7 @@ python srvhunter.py -n "10.0.0.1,10.0.0.2" -d acme.local
 ## Demo 🖼️
 
 *Here's an example of SRVHunter in action:*  
-![Demo of SRVHunter](path/to/demo-image.png)
-
-*(Replace `path/to/demo-image.png` with the actual image path once added.)*
+<img width="1114" alt="image" src="https://github.com/user-attachments/assets/a16b0e6b-3ab1-4044-b5bd-a821f7e8163f" />
 
 ---
 
@@ -108,3 +106,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 - Built with 💻 and 🧠  by [azw / austinzwile](https://github.com/austinzwile).
 - Inspired by the need for effective DNS reconnaissance in pentesting.
+- The whole offensive security community which helped me get to where I am today. 💕
