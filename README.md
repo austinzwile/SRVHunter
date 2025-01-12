@@ -39,7 +39,7 @@ A DNS reconnaissance tool for uncovering SRV records with precision. From LDAP s
 Run the tool with the following options:
 
 ```bash
-python srvhunter.py [options]
+python srvhunter.py [options] -d domain.com
 ```
 
 ### Options:
